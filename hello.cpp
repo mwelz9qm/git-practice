@@ -3,7 +3,8 @@
 int main()
 {
 
-std::cout << "Hello world";
+std::cout << "Hello world" << std::endl;
+
 //git is strcking this file
 
 
